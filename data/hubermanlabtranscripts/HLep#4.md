@@ -1,4 +1,4 @@
-Transcribed by readthatpodcast.com
+
 Find Your Temperature Minimum to Defeat Jetlag, Shift Work & Sleeplessness | 
 Huberman Lab Podcast
 Episode #4
@@ -45,7 +45,7 @@ meditative states can facilitate cognition, recovery of mental function, recover
 physical ability, etc. So there are a lot of reasons to take up a meditation practice. 
 Headspace and the Headspace app makes it easy to learn and maintain a meditation 
 practice. If you want to try Headspace, you can go to headspace.com/specialoffer. And if 
-Transcribed by readthatpodcast.com
+
 you do that, they will let you try Headspace for an entire month for free. So zero risk 
 there, that's headspace.com/specialoffer to try Headspace, the meditation app, for one 
 month for free. Today's podcast episode is about sleep and wakefulness. We are going 
@@ -78,7 +78,7 @@ this rhythm of about 24 hours, although it's not exactly 24 hours. Meaning, ever
 hours your body temperature goes from low to high and back down to low again. And it 
 takes 24 hours for that to repeat. Not 18, not six, 24 plus or minus a couple hours. You 
 also have a rhythm in sleepiness and wakefulness that correlates with that. We tend to 
-Transcribed by readthatpodcast.com
+
 be sleepy as our temperature is falling, getting lower, and we tend to be more awake or 
 waking when our temperature is increasing. This is a biological fact. It is right down to 
 our DNA. We actually have genes in every single one of our cells that ensure that every 
@@ -109,7 +109,7 @@ talking about all the negative effects of jet lag I'll talk a little bit about i
 effects of shift work, or trying to scare you by telling you about the quite valid data 
 around depression, amnesia, dementia, all the terrible things that happen when you're 
 not sleeping well, rather I'd like to focus on what you can do 
-Transcribed by readthatpodcast.com
+
 08:22 - “The perfect schedule” 
 and arm you with tools. So let's talk about that perfect schedule for a moment. And then 
 let's talk about jet lag and what jet lag really represents and how to push back on jet lag, 
@@ -140,8 +140,8 @@ sun. Well, the sun is there, it might be hiding behind clouds, unless it's very 
 where you live like Scandinavia in the depths of winter in which case you might want 
 some artificial light. Get some sunlight in your eyes when you can. Here's the deal with 
 sunlight and artificial light that I have not discussed previously. A lot of photon energy, 
+
 11:04 - The 100K Lux per morning goal 
-Transcribed by readthatpodcast.com
 a high amount of lux, L-U-X, comes through even cloud cover. A good number to shoot 
 for as a rule of thumb, is to try and get exposure to at least 100,000 lux before 9:00 AM. 
 10:00 AM maybe, but before 9:00 AM assuming you're waking up sometime between 
@@ -175,9 +175,7 @@ that 9:00 AM. Now, if you can't do that because you live in an area of the world
 just not bright enough. Some people have sent me pictures from Northern England. It's 
 just not bright enough in winter. Then sure, you can resort to using artificial lights in 
 order to get enough photons. And I'm putting out this 100,000 lux number as a target to 
-get each day before 9:00 AM. You can in theory, get it all from artificial lights, but there 
-Transcribed by readthatpodcast.com
-are some special qualities about sunlight that make sunlight the better stimulus. First of 
+get each day before 9:00 AM. You can in theory, get it all from artificial lights, but there are some special qualities about sunlight that make sunlight the better stimulus. First of 
 all, it's free if it's available outside. There is a number of different... There are, excuse 
 me, a number of different technologies kind of like this one like a light pad that this one 
 says it's a 930 lux. I'm covering this up 'cause I'm not trying to promote any specific 
@@ -207,7 +205,6 @@ a little bit more wiggle room,
 16:15 - Reset your cortisol 
 a little bit more leeway to view lights from screens and overhead lights even late at night 
 without disrupting your circadian clock. But it is a kind of a double-edged sword where 
-Transcribed by readthatpodcast.com
 you need a lot of light early in the day and you need to avoid bright lights later in the day. 
 I've mentioned studies on here, a number of you have asked about getting the 
 references. We are in the process of trying to get a webpage going with full links. There's 
@@ -241,9 +238,7 @@ jet lagged. Many of you are jet lagged. You're jet lagged because you're looking
 phone in the middle of the night, you're jet lagged 'cause you're waking up at different 
 times a day, you're jet lagged because your exercise is on a kind of chaotic regime, 
 some days at this time, some days at that time. And if that works for you, great. I want to 
-be really clear that a number of people always say, well, I know so and so that you know 
-Transcribed by readthatpodcast.com
-only needed four hours of sleep and, or they're just fine, they traveled to Europe and 
+be really clear that a number of people always say, well, I know so and so that you know only needed four hours of sleep and, or they're just fine, they traveled to Europe and 
 they're just fine. There's a lot of individual variability. And we're going to talk about the 
 origins of some of that variability. I mean, I know people that can eat anything and 
 somehow seem to maintain great lipid profiles and you know, body weight and fitness 
@@ -274,9 +269,7 @@ kill you earlier. I guess it means you'll die earlier. It doesn't actually kill 
 Although there are many cases where tourists end up stepping in front of buses, 
 especially in countries where the cars and buses drive on the opposite side of the street 
 that they're used to, who are jet lagged and lose their life that way. Jet lag is a serious 
-thing. Sure we have a family story about this. When I was growing up, I had a family 
-Transcribed by readthatpodcast.com
-member travel overseas for work and take a sleeping pill, I won't name the sleeping pill, 
+thing. Sure we have a family story about this. When I was growing up, I had a family member travel overseas for work and take a sleeping pill, I won't name the sleeping pill, 
 though at the end I'm going to talk about sleeping pills, and had a case of total amnesia 
 for a week. That's not entirely uncommon. If you've ever been really jet lagged and fallen 
 asleep, doesn't even have to be in the middle of the day, woken up, you might not know 
@@ -308,7 +301,7 @@ earlier is harder. And that's why traveling east has a number of different featu
 associated with it, that because you're traveling east you're trying to go to bed earlier, 
 you know. As a Californian, if I go to New York city, I've got to get to bed three hours 
 early and wake up three hours early, much harder than coming back to California and 
-Transcribed by readthatpodcast.com
+
 just staying up a few more hours. And this probably has roots in evolutionary adaptation 
 where under conditions where we need to suddenly gather up and go or forge for food, 
 or fight, or do any number of different things, that we can push ourselves through the 
@@ -343,7 +336,7 @@ why they don't undergo puberty. Then it becomes cyclical during puberty, meaning
 comes on once every 24 hours and turns off once every 24 hours, it cycles, cyclic. And 
 then as we get older, the cycles get more disrupted and we become more vulnerable to 
 even small changes in schedule, etc, meal times, right? So, jet lag gets worse as we 
-Transcribed by readthatpodcast.com
+
 age. In addition, there are other things that happen with age that people start doing less 
 exercise, their digestion can get worse, etc. So some of the effects of age might not be 
 direct effects of getting older but some of the things that are correlated with being older. 
@@ -376,7 +369,7 @@ temperature minimum, and then your temperature will start to rise, you'll wake u
 two hours later. Then your temperature will continue to rise into the afternoon it will peak, 
 maybe a little trough, sometimes that happens, and then it'll start declining slowly as you 
 approach nighttime. There are things that will disrupt that temperature pattern. Saunas, 
-Transcribed by readthatpodcast.com
+
 cold baths, intense exercise, etc. Meals tend to have a thermogenic effect that increases 
 temperature slightly little blips, but the overall cycle 24 hour cycle of temperature has this 
 pattern. And last time I talked about the seminal work of Joe Takahashi and others, who 
@@ -409,7 +402,7 @@ absolute reference point for shifting your circadian clock. Whether or not it's 
 shift work, or some other purpose. Here's the deal. If you expose your eyes to bright light 
 in the four hours, maybe five or six, but in the four hours after your temperature 
 minimum, your circadian clock will shift so that you will tend to get up earlier and go to 
-Transcribed by readthatpodcast.com
+
 sleep earlier in the subsequent days, okay? So it's called a phase advance, if you'd like 
 to read up on this further. You advance your clock, okay? However, if you view bright 
 light in the four to six hours before your temperature minimum, you will tend to phase 
@@ -443,7 +436,7 @@ that makes people want to fall asleep. So if this cures your insomnia fantastic,
 in all seriousness, sleepiness during the day time unless it's around your temperature 
 peak and only lasts about 90 minutes or so, is a sign of insomnia. 
 36:30 - Temperature and Exercise 
-Transcribed by readthatpodcast.com
+
 It's a sign of lack of sleep. I want to be very, very clear that if you know your temperature 
 minimum, you can shift your clock using light. You can also shift your clock by engaging 
 in exercise in the four hours after your temperature minimum to wake up earlier on 
@@ -477,7 +470,7 @@ which you can shift your clock anywhere from one to three hours per day, which i
 remarkable. That means your temperature minimum is going to shift out as much as 
 three hours, which can make it such that you can travel all the way to Europe and in as 
 long as you've prepared for a day or so by doing what I described back home and then 
-Transcribed by readthatpodcast.com
+
 doing it when you arrive, you can potentially accomplish the entire shift within anywhere 
 from 24 to 36 hours. And this is really important to emphasize that once you arrive in 
 your new location and here I'm talking about traveling eastward, California to Europe, 
@@ -510,7 +503,7 @@ to the new time zone. You can force yourself to eat if you like, or you can skip
 But what you don't want to do is stay on your home meal schedule, waking up in the 
 middle of the night and eating. That is really going to throw things off because a lot of the 
 clocks in the periphery like from the liver, the peripheral body, will send information back 
-Transcribed by readthatpodcast.com
+
 to the brain and then the brain is getting really conflicted signals. So the temperature 
 minimum is really your anchor point for shifting your clock best. I don't know why this 
 information really hasn't made it into the popular sphere, quite so much. There's all sorts 
@@ -541,7 +534,7 @@ A number of people have asked about the use of melatonin to induce sleepiness. A
 right, well let's think about what melatonin is. Melatonin is this hormone that's released 
 from the pineal gland, which is this gland. A couple of notes about the pineal, 'cause I've 
 been getting a lot of questions about this. I'm probably going to draw some fire for this 
-Transcribed by readthatpodcast.com
+
 but I'd be happy to have a thoughtful, considerate debate, with some peer reviewed 
 papers in front of us. The pineal does make this hallucinogenic molecule they call DMT, 
 but in such a minuscule amounts that it is not responsible for the hallucinations you see 
@@ -576,7 +569,7 @@ working on neuroendocrinology, and we were working on this hamster species of
 seasonal breeders. And basically when days are long, which inhibits melatonin, these 
 little Siberian hamsters as they're called, have testes about the size of, sort of typical 
 table grapes, although that's a weird way to put it. When days get shorter and the 
-Transcribed by readthatpodcast.com
+
 melatonin signal gets longer because light inhibits melatonin, days get shorter, melatonin 
 gets longer. Those same hamsters would have testes that would involute to the size of 
 about a grain of rice. Now this does not happen in humans in short days. But 
@@ -611,7 +604,7 @@ about and talking about. So if you want to take melatonin in the afternoon in or
 asleep or in the evening, be my guest, that's up to you. Again, you're responsible for 
 your health, not me. But for many people melatonin is not going to be the best solution. 
 The best solution is going to be to use light and temperature, and exercise on either side 
-Transcribed by readthatpodcast.com
+
 of the temperature minimum to shift your clock both before your trip and when you land 
 in your new location and your clock starts to shift. Okay, so now you know my opinions 
 about melatonin, feel free to filter them through your own opinions and experiences with 
@@ -644,7 +637,7 @@ flexibility because I could spend the next 25 years of my life answering every q
 about every nuance pattern of travel. Well, we're going to Sydney and then we're going 
 there, what should I do? But that's on you. You need to figure out your temperature 
 minimum and your temperature peak, if you like, and then use these parameters to it 
-Transcribed by readthatpodcast.com
+
 gives you flexibility. And that really underscores the most important thing is that when 
 you understand mechanism it's not about being neurotically attached to a specific 
 protocol, it's the opposite. It gives you power to not be neurotically attached to a specific 
@@ -675,7 +668,7 @@ in your hotel room to wake up when you like. Some people will use night shades, 
 know, not the night shades that you eat or that some people say you're not supposed to 
 eat, 
 55:30 - Nightshades 
-Transcribed by readthatpodcast.com
+
 I don't know anything about that, but the eye covers to keep light out. Those can be very 
 useful on planes and in hotels and so on. So you can use light and dark or you can 
 travel with your light and dark devices so that you can stay on your home schedule and 
@@ -706,7 +699,7 @@ They leave the hospital or in some cases, there have been experiments where peop
 are placed near a window where they get some natural light and the psychotic 
 symptoms disappear, presuming there weren't psychotic symptoms beforehand, before 
 they entered the hospital. So it's pretty dramatic what light can do to the psyche and to 
-Transcribed by readthatpodcast.com
+
 the body. So let's talk a little bit about a different form of jet lag that requires no planes, 
 no trains, no automobiles, and that's shift work. Shift work is becoming increasingly 
 common. 
@@ -739,7 +732,7 @@ appreciate. If you're going to work a shift where let's say, you start at 4:00 P
 end at 2:00 AM, excuse me, then there's some important questions that arise. For 
 instance, should you see light during your shift? Well, this is a matter of personal choice 
 but ideally you want to view as much light as possible and as is safely possible when 
-Transcribed by readthatpodcast.com
+
 you need to be alert. So that would mean from 4:00 PM to 2:00 AM and then you would 
 want to sleep. So using light as a correlate of alertness and using darkness as a 
 correlate of sleepiness, what this means is see as much light as you safely can during 
@@ -772,7 +765,7 @@ decreasing, avoid light. If your temperature is increasing, get light. It's that
 If your temperature is decreasing, avoid light, if your temperature is increasing, get light. 
 The shift worker who works from 4:00 PM until 2:00 AM has a temperature rhythm that's 
 very different than mine where I wake up around 6:00 AM, 5:00 AM, and I go to sleep 
-Transcribed by readthatpodcast.com
+
 around 11:00 PM, okay? We both have a 24 hour-ish circadian cycle, except mine is 
 more aligned to the rise and setting of the sun and there's is not, right? So you have to 
 know your internal temperature rhythm. And no you don't have to walk around with a 
@@ -805,7 +798,7 @@ you now know your eyes are very sensitive to resetting of circadian clocks. What
 do at that time? If this were a classroom, I would either cold call on somebody or I'd wait 
 for the oh, oh, oh, oh person in the audience that inevitably exists. So temperature is for 
 that person, they've been up for a while, temperature is falling, not rising. For me it will 
-Transcribed by readthatpodcast.com
+
 be rising. But 'cause I'm diurnal, I'm awake during the day. For that person the 
 temperature's falling and so they view light while temperature is falling. What's it going to 
 do? It's going to phase delay them. It's going to make it harder for them to get to sleep 
@@ -837,7 +830,7 @@ IRS equivalent for sleep. They're not going to come around and try and collect a
 sleep that you didn't get. No one really knows what the consequences are going to be for 
 you and for me and for the next person for the sleep you didn't get. You can't really 
 recover the sleep you missed out on, 
-Transcribed by readthatpodcast.com
+
 1:08:20 - NSDR protocols/implementation
 but you also don't want to get neurotically attached to a schedule because there's this 
 thing called sleep anxiety and then people have trouble falling asleep and staying 
@@ -869,7 +862,7 @@ Those are slightly different than meditations that involve lack of focus and att
 say internal states. I'm going to pause there, and then I want to talk about kids and the 
 elderly. In other words, how do we control 
 1:10:44 - The frog skin in your eye (not a joke) 
-Transcribed by readthatpodcast.com
+
 sleep and circadian rhythms and wakefulness in babies, adolescents, teens, and aged 
 folks. All right, before we talk about sleep in kids, I want to tell a little story. It's not a joke, 
 many of you will be relieved that I'm not going to try and tell another joke this episode. 
@@ -904,7 +897,7 @@ the darkness of skin, less melanin in the skin, or in the case of an animal with
 fur and no reproduction on the other hand. And humans don't actually shift their breeding 
 patterns tremendously from long days and short days, although there are some data that 
 there's some shifts. We also don't radically change our skin color depending on how 
-Transcribed by readthatpodcast.com
+
 much sunlight exposure we have. But the simple way to put this is, when days are long, 
 there's a lot more dopamine and we feel really good and there's a lot more breeding and 
 breeding-like behavior. When days are short, there's a lot less dopamine and a lot less 
@@ -936,7 +929,7 @@ That was a brief aside, but for those of you that are interested in the relation
 between light and skin tone and all that kind of stuff, I thought you might find it 
 interesting that the cells in your eye are a lot like these skin cells in frogs or in animals 
 that shift their entire color and sometimes metamorphosize. 
-Transcribed by readthatpodcast.com
+
 1:17:24 - Ovaries or testes? 
 You know, there are some species that literally change shape in their reproductive 
 organs. In fact, if that wasn't weird enough, when I was in graduate school at Berkeley, 
@@ -968,7 +961,7 @@ optics of their eyes are so poor that you're a cloudy image. They're not seeing 
 detail. As the optics get better, then they will see you with more and more clarity. But a 
 lot of that is clearing of the lens and some of the other aqueous features of the newborn 
 eye, they don't see very well. But they also don't have such great ways of adjusting to 
-Transcribed by readthatpodcast.com
+
 bright light. And so babies have a natural aversion to bright lights. So you really want to 
 avoid trying to use sunlight or really bright light in the same way that you would for an 
 adult on a young baby or child. As children get older however, melatonin does start to 
@@ -1001,7 +994,7 @@ understand the relationship between calm and deep sleep. So the autonomic nervou
 system can put us into states of panic, where that's kind of seesaw of autonomic 
 alertness, goes all the way to panic. Or it can be alertness, or it can be alert and calm, 
 right? So there's a range there, it's a continuum. It can also be that you're in deep sleep, 
-Transcribed by readthatpodcast.com
+
 so the other end of the seesaw is way up or you're your in light sleep or you're kind of 
 sleepy, or you're just feeling kind of relaxed. Perhaps the most important thing if you're 
 having to map to a baby schedule in order to make sure that they're getting changings, 
@@ -1036,7 +1029,7 @@ optics of the eyes have improved but you don't want to damage the eyes of course
 very bright light. They are much more sensitive even until they're kind of 10, 11 years 
 old. And we'll talk about vision in children in a moment. But trying to get longer and 
 longer batches of sleep through, hopefully not through the use of administering 
-Transcribed by readthatpodcast.com
+
 melatonin to the kids 'cause that's what I talked about before why that could potentially 
 be detrimental 
 1:25:25 - Ultradian cycles in children 
@@ -1067,7 +1060,7 @@ very sick loved one, you're up all night. Try and stay calm using NSDR protocols
 it's harder to do than to say, but those protocols are there, they're free, there's research 
 to support them. Try and get sleep whenever you can but also try to get morning sunlight 
 1:27:38 - Teens and puberty 
-Transcribed by readthatpodcast.com
+
 and evening sunlight in your eyes if you can and if you can't get that, use artificial light, 
 okay? What about later life? So kids now, adolescents, teens, it is true that teens have a 
 tendency to wake up later and go to sleep later. In part, just because they're sleeping a 
@@ -1100,7 +1093,7 @@ to support this late shifted rhythm and this extended sleep phase. There are dat
 Dr. Jamie Zeitzer, Department of Psychiatry and Behavioral Sciences, and others at 
 Stanford, showing that turning on the lights in the room of a teen before they wake up 
 helps them get more sleep the subsequent night, it also tricks them into going to sleep a 
-Transcribed by readthatpodcast.com
+
 little bit earlier. But it gives them about 45 minutes more of deep sleep. And that's been 
 shown statistically, total sleep time increases as well. If they're hiding under the covers, 
 that's not going to work, but their eyes don't have to be open. I know a few parents now 
@@ -1133,7 +1126,7 @@ easily. Exercise can come in various forms for people that can't get outside and
 of sunlight by jogging or cycling. If they're not able to do that, light through window in that 
 case, open window ideally, but for temperature reasons, etc, sometimes the window has 
 to be closed. Getting people near that window and away from artificial light early in the 
-Transcribed by readthatpodcast.com
+
 day, and away from artificial lights during the night phase can have a tremendous effect. 
 And in the elderly that's when melatonin might be a viable option. And this should be 
 discussed with a physician, of course, but you know, you're way past the puberty time 
@@ -1165,7 +1158,7 @@ impressive data around some non-prescription drug type supplements that have fai
 high safety margins that you might consider but you should talk to your doctor always 
 before adding or taking anything out of your health regimes, right? Your health is not my 
 responsibility, it's your responsibility, so be a stringent filter. Along those lines, one of the 
-Transcribed by readthatpodcast.com
+
 most powerful and useful tools that I've mentioned here on many times and I plan to 
 mention many many more times, is the website examine.com which I have no affiliation 
 with but is a wonderful site that links you to quality peer reviewed studies relating to just 
@@ -1231,7 +1224,7 @@ does and all the things that it does can sometimes include things that you had n
 like reducing conversion of certain androgens to estrogens which you might like or you 
 might want to avoid. That's up to you and where you want your estrogen levels 
 depending on who you are and what your life circumstances and goals are. A few other 
-Transcribed by readthatpodcast.com
+
 things that can help the transition to sleep, are things like 5-HTP L-tryptophan. I've talked 
 about why I'm not a fan of those for me, they tend to throw me into deep sleep and then I 
 wake up and I can't fall back asleep. So I don't like to tinker with my serotonin system, I 
@@ -1261,7 +1254,7 @@ there knows what these red pills are and what this compound is. And it was incre
 and I would love to know what those are. So if you know, please don't go taking red pills 
 at random to try and recreate this non-experiment experience of mine. But please do 
 contact me if you find out 
-Transcribed by readthatpodcast.com
+
 1:43:50 - Highlights 
 or if you're an acupuncturist and you know what these mysterious red pills were, 
 because they were pretty awesome. Once again, I've thrown a tremendous amount of 
@@ -1294,7 +1287,7 @@ to shift your clock, decrease temperature to delay your clock, okay? Map out you
 temperature and understand it. You don't have to know degree by degree across the 
 day, know your minimum, know your maximum temperature in your 24 hour cycle and 
 you'll feel great power through that because then you'll know also about these ultradian 
-Transcribed by readthatpodcast.com
+
 cycles, these 90 minute cycles within which you can do focused work. Don't expect the 
 focus to come early, expect focus to come in the middle and then kind of taper off. I 
 talked a little bit about kids, a little bit about elderly, about parenting, we are going to 
@@ -1327,7 +1320,7 @@ make you who you are and allow you to feel certain ways, good or bad, allow you 
 function physically in certain ways, 
 1:48:30 - Feedback and Support 
 good or bad, and give you more of a sense of control. That's my goal here. Many people 
-Transcribed by readthatpodcast.com
+
 have quite graciously asked how they can help support the podcast. First of all, thank 
 you, we appreciate the question. You can support the podcast by subscribing to the 
 podcast on YouTube, as well as subscribing on Apple or Spotify. And you can also leave 
