@@ -19,7 +19,7 @@
 pip install -r requirements.txt
 ```
 
-3. Install markdown depenendies with: 
+3. Install markdown depenencies with: 
 
 ```python
 pip install "unstructured[md]"
