@@ -3,15 +3,14 @@
 ## Install dependencies
 
 1. Do the following before installing the dependencies found in `requirements.txt` file because of current challenges installing `onnxruntime` through `pip install onnxruntime`. 
-
+    - For Windows users, follow the guide [here](https://github.com/bycloudai/InstallVSBuildToolsWindows?tab=readme-ov-file) to install the Microsoft C++ Build Tools. Be sure to follow through to the last step to set the enviroment variable path.
+      
     - For MacOS users, a workaround is to first install `onnxruntime` dependency for `chromadb` using:
 
     ```python
      conda install onnxruntime -c conda-forge
     ```
     See this [thread](https://github.com/microsoft/onnxruntime/issues/11037) for additonal help if needed. 
-
-     - For Windows users, follow the guide [here](https://github.com/bycloudai/InstallVSBuildToolsWindows?tab=readme-ov-file) to install the Microsoft C++ Build Tools. Be sure to follow through to the last step to set the enviroment variable path.
 
 
 2. Now run this command to install dependenies in the `requirements.txt` file. 
